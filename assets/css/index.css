@@ -1,18 +1,18 @@
 @charset "UTF-8";
-@key //整體版型
+/* line 8, C:/Users/kappa/Desktop/HTML/Exercise/Personal Business Card/assets/css/index.scss */
 * {
   /*border: solid 1px;*/
   font-family: 微軟正黑體;
   position: relative; }
 
-/* line 17, C:/Users/kappa/Desktop/HTML/Exercise/Personal Business Card/assets/css/index.scss */
+/* line 14, C:/Users/kappa/Desktop/HTML/Exercise/Personal Business Card/assets/css/index.scss */
 html, body {
   width: 100%;
   height: 100%;
   padding: 0px;
   margin: 0px; }
 
-/* line 23, C:/Users/kappa/Desktop/HTML/Exercise/Personal Business Card/assets/css/index.scss */
+/* line 20, C:/Users/kappa/Desktop/HTML/Exercise/Personal Business Card/assets/css/index.scss */
 body {
   background-color: #d1d1d1;
   border-top: solid 20px #4BC0D9;
@@ -20,7 +20,7 @@ body {
   box-sizing: border-box;
   overflow: hidden; }
 
-/* line 33, C:/Users/kappa/Desktop/HTML/Exercise/Personal Business Card/assets/css/index.scss */
+/* line 30, C:/Users/kappa/Desktop/HTML/Exercise/Personal Business Card/assets/css/index.scss */
 .namecard {
   width: 350px;
   height: 225px;
@@ -36,36 +36,36 @@ body {
   border: solid 1px black;
   border-radius: 6px;
   box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2); }
-  /* line 51, C:/Users/kappa/Desktop/HTML/Exercise/Personal Business Card/assets/css/index.scss */
+  /* line 48, C:/Users/kappa/Desktop/HTML/Exercise/Personal Business Card/assets/css/index.scss */
   .namecard h2 {
     font-size: 25px;
     font-weight: 700; }
-    /* line 55, C:/Users/kappa/Desktop/HTML/Exercise/Personal Business Card/assets/css/index.scss */
+    /* line 52, C:/Users/kappa/Desktop/HTML/Exercise/Personal Business Card/assets/css/index.scss */
     .namecard h2 span {
       font-size: 12px; }
-  /* line 60, C:/Users/kappa/Desktop/HTML/Exercise/Personal Business Card/assets/css/index.scss */
+  /* line 57, C:/Users/kappa/Desktop/HTML/Exercise/Personal Business Card/assets/css/index.scss */
   .namecard h5 {
     color: #4BC0D9;
     font-weight: 500; }
-  /* line 65, C:/Users/kappa/Desktop/HTML/Exercise/Personal Business Card/assets/css/index.scss */
+  /* line 62, C:/Users/kappa/Desktop/HTML/Exercise/Personal Business Card/assets/css/index.scss */
   .namecard p {
     font-size: 12px;
     line-height: 22px;
     font-weight: 500; }
 
-/* line 72, C:/Users/kappa/Desktop/HTML/Exercise/Personal Business Card/assets/css/index.scss */
+/* line 69, C:/Users/kappa/Desktop/HTML/Exercise/Personal Business Card/assets/css/index.scss */
 .circle {
   width: 100px;
   height: 100px;
   border-radius: 100%;
   position: absolute; }
 
-/* line 79, C:/Users/kappa/Desktop/HTML/Exercise/Personal Business Card/assets/css/index.scss */
+/* line 76, C:/Users/kappa/Desktop/HTML/Exercise/Personal Business Card/assets/css/index.scss */
 .circle1 {
   right: 100px;
   background-color: #4BC0D9; }
 
-/* line 84, C:/Users/kappa/Desktop/HTML/Exercise/Personal Business Card/assets/css/index.scss */
+/* line 81, C:/Users/kappa/Desktop/HTML/Exercise/Personal Business Card/assets/css/index.scss */
 .circle2 {
   width: 60px;
   height: 60px;
@@ -73,13 +73,13 @@ body {
   top: -30px;
   border: solid 3px #4BC0D9; }
 
-/* line 92, C:/Users/kappa/Desktop/HTML/Exercise/Personal Business Card/assets/css/index.scss */
+/* line 89, C:/Users/kappa/Desktop/HTML/Exercise/Personal Business Card/assets/css/index.scss */
 .page_title {
   text-align: center;
   color: #555;
   font-weight: 500; }
 
-/* line 98, C:/Users/kappa/Desktop/HTML/Exercise/Personal Business Card/assets/css/index.scss */
+/* line 95, C:/Users/kappa/Desktop/HTML/Exercise/Personal Business Card/assets/css/index.scss */
 .mark_1 {
   font-size: 300px;
   position: absolute;
